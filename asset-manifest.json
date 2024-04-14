@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JaroslawJaniak/tailwindcss.git/static/css/main.f855e6bc.css",
-    "main.js": "/JaroslawJaniak/tailwindcss.git/static/js/main.093a5e8c.js",
-    "static/js/453.b8dcba98.chunk.js": "/JaroslawJaniak/tailwindcss.git/static/js/453.b8dcba98.chunk.js",
-    "static/media/logo.svg": "/JaroslawJaniak/tailwindcss.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JaroslawJaniak/tailwindcss.git/index.html",
-    "main.f855e6bc.css.map": "/JaroslawJaniak/tailwindcss.git/static/css/main.f855e6bc.css.map",
-    "main.093a5e8c.js.map": "/JaroslawJaniak/tailwindcss.git/static/js/main.093a5e8c.js.map",
-    "453.b8dcba98.chunk.js.map": "/JaroslawJaniak/tailwindcss.git/static/js/453.b8dcba98.chunk.js.map"
+    "main.css": "/tailwindcss/static/css/main.f855e6bc.css",
+    "main.js": "/tailwindcss/static/js/main.0040a336.js",
+    "static/js/453.b8dcba98.chunk.js": "/tailwindcss/static/js/453.b8dcba98.chunk.js",
+    "static/media/logo.svg": "/tailwindcss/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tailwindcss/index.html",
+    "main.f855e6bc.css.map": "/tailwindcss/static/css/main.f855e6bc.css.map",
+    "main.0040a336.js.map": "/tailwindcss/static/js/main.0040a336.js.map",
+    "453.b8dcba98.chunk.js.map": "/tailwindcss/static/js/453.b8dcba98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.093a5e8c.js"
+    "static/js/main.0040a336.js"
   ]
 }
